@@ -1,3 +1,2 @@
+python-telegram-bot==20.0a2
 requests
-python-telegram-bot==20.0
-matplotlib
